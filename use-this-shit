@@ -1,0 +1,4 @@
+local project = "coffe"
+local branch = "main"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iuserbot/"..project.."/"..branch.."/main.lua", true))()
