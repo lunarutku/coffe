@@ -10,5 +10,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/iuserbot/"..project..
 ```
 
 <h1> Warning! </h1>
-<h5> First. Key is coffe</h5>
+<h5> First. Key is on our <a href="https://discord.gg/5fzXYes9xT">discord</a>.</h5>
 <h5> Second. If you get banned from any game. We dont accept anything</h5>
